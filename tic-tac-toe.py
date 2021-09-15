@@ -2,7 +2,7 @@ import numpy as np
 def Board(Array) :
     Array = Array.reshape(3, 3)
     print(Array)
-
+# aditya sharma
 Array=np.array([['1', '2', '3'] ,
                 ['4','5','6'] ,
                 ['7','8','9']
